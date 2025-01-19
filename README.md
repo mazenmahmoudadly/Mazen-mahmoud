@@ -2,7 +2,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
 **Cybersecurity Enthusiast | Red Teamer | Ethical Hacker**  
 
-![Cybersecurity GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
+![Cybersecurity GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0wdXlieWd6MWsxMHh5ZGp3cTh5NG5tcjJ5b2pzYmllc3FybHgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuRuLWOGo0CI/giphy.gif)  
 
 Welcome to my GitHub profile! I’m passionate about safeguarding digital landscapes, mastering penetration testing, and exploring the latest in cybersecurity tools and techniques.  
 
