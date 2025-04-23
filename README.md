@@ -50,9 +50,9 @@ Welcome to my GitHub profile! I’m passionate about safeguarding digital landsc
 
 ## 📈 GitHub Stats  
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=mazenmahmoudadly&show_icons=true&theme=radical" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenmahmoudadly&theme=radical" alt="GitHub Streak" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenmahmoudadlye&layout=compact&theme=radical" alt="Top Languages" />  
 </div>  
 
 ---
