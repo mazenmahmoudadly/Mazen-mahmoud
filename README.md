@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Mazen Mahmoud!  
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=mazenmahmoudadly&color=blue&style=flat-square)  
 **Cybersecurity Enthusiast | Red Teamer | Ethical Hacker**  
 
 ![Cybersecurity GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0wdXlieWd6MWsxMHh5ZGp3cTh5NG5tcjJ5b2pzYmllc3FybHgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuRuLWOGo0CI/giphy.gif)  
